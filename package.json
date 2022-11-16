@@ -2,7 +2,7 @@
   "name": "chains",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "ethereum.js",
   "scripts": {
     "dev": "nodemon ethereum.js"
   },
